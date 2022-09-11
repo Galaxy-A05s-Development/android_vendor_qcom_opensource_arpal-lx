@@ -64,7 +64,6 @@
 #include <unistd.h>
 #include <dlfcn.h>
 #include <mutex>
-#include "kvh2xml.h"
 #include <sys/ioctl.h>
 #include "fluence_ffv_common_calibration.h"
 #ifdef EC_REF_CAPTURE_ENABLED
